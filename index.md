@@ -6,3 +6,4 @@ title: Welcome to my blog
 select * from tb
 ```
 
+this is a index md
